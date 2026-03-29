@@ -1,6 +1,6 @@
 # 🚀 Nombre del Proyecto
 
-Breve descripción de tu proyecto. Explica en 1–2 líneas qué hace y por qué es útil.
+Breve descripción de tu proyecto. Explica en 1–2 líneas qué hace y por qué es útil. JOSE BURGOS DE JAVASCRIPT
 
 ---
 
